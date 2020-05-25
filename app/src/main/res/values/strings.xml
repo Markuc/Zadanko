@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Zadanko</string>
+    <string name="search_hint">Search address</string>
+    <string name="distance_none">Distance between points will be calculated automatically after locations are chosen</string>
+    <string name="distance_between">Distance between these locations is: %1$.2fm (%2$.2fkm)</string>
+    <string name="select_starting_point">Select starting point</string>
+    <string name="select_destination">Select destination</string>
+    <string name="no_search_results">No results found for entered address</string>
+    <string name="no_history_results">There are no entries in your search history</string>
+    <string name="historic_item">Item is from search history</string>
+    <string name="address_not_selected">Address not selected</string>
+</resources>

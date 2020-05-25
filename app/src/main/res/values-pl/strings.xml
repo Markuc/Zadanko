@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_hint">Wyszukaj adres</string>
+    <string name="distance_none">Odległość między punktami zostanie obliczona automatycznie po wybraniu lokalizacji</string>
+    <string name="distance_between">Odległość między tymi lokalizacjami to: %1$.2fm (%2$.2fkm)</string>
+    <string name="select_starting_point">Wybierz punkt początkowy</string>
+    <string name="select_destination">Wybierz punkt końcowy</string>
+    <string name="no_search_results">Nie znaleziono żadnych wyników dla podanego adresu</string>
+    <string name="no_history_results">Nie ma żadnych wpisów w historii wyszukiwania</string>
+    <string name="historic_item">Element pochodzi z historii wyszukiwania</string>
+    <string name="address_not_selected">Nie wybrano adresu</string>
+</resources>
